@@ -20,3 +20,5 @@ int main()
 
     return 0;
 }
+
+// odd loop doesn't know how many times it has to be execute.
