@@ -16,5 +16,5 @@ int main() {
 }
 
 void printHello() {
-    printf("hue hue hue");
+    printf("This is a function");
 }
