@@ -23,7 +23,7 @@ To use the contents of this repository, you need to have a C compiler installed 
 You can clone the repository to your local machine using the following command:
 
 ```bash
-git clone https://github.com/SYN606/C-Language-basics.git
+git clone https://github.com/SYN606/C-Language-basics.git```
 
 ## Contributing
 
